@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pareixoaze.songwenwang.xyz/sitemap.xml
